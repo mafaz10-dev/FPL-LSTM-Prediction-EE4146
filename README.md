@@ -20,7 +20,9 @@ We systematically evaluate whether the optimal historical lookback window for pr
 
 The complete implementation, including data preprocessing scripts, baseline and enhanced LSTM models, grid search, ablation study, and final prediction code, is available in this project repository:
 
-- https://github.com/abmhk10/FPL-LSTM-Prediction-EE4146.
+- [https://github.com/abmhk10/FPL-LSTM-Prediction-EE4146.](https://github.com/abmhk10/FPL-LSTM-Prediction-EE4146.)
+
+> **Important:** The trailing `.` in the repository name is intentional. Please keep it when cloning (the clone URL ends with `..git` because the repo name already ends with a dot).
 
 If you prefer to run the code locally, follow the setup instructions below. If you do not have a local GPU or prefer a hosted environment, use the notebook workflow in Google Colab.
 
